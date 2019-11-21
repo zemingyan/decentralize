@@ -1,0 +1,11 @@
+server:
+  port: 7110
+
+
+first:
+  num: 3
+
+com:
+  didispace:
+    post[0]: Why Spring Boot
+    post[1]: Why Spring Cloud
